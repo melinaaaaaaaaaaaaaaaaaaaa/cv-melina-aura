@@ -1,0 +1,107 @@
+body{
+  background-color: #50727B;
+  padding:0;
+  margin:0;
+}
+
+#header{ 
+    background-color: #50727B;
+    height:280px;
+    padding: 10px;
+
+ 
+
+}
+.photo {
+    height: 15em; 
+    width: 15em;
+    float: left;
+    padding:1em; 
+    margin-right: 15px;
+}
+.name {
+    color:#344955;
+    font-size: 35px;}
+
+
+
+#footer{
+    background-color:#78A083;
+    padding:10px;
+
+}
+.judul{
+    font-family: monospace;
+    color: rgb(10, 10, 10);
+    font-style: italic;
+    font-size: 30px;
+    
+}
+
+.deskripsi{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+#content{
+background-color: #7b8adf;
+}
+
+.experience {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.card {
+     background-color: #35374B;d
+     border: 3px  solid burlywood;
+     border-radius: 10px;
+     padding: 10px;
+     width: 40%;
+     margin-bottom: 15px;
+     display: inline-block;
+
+
+
+}
+
+#footer h1 {
+    text-align:center;
+    color: black;
+    margin-bottom: 10px
+}
+
+#footer ul li a {
+    color: black;
+    text-decoration: none;
+    display: block;
+}
+
+#footer ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
